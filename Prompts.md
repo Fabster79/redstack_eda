@@ -78,3 +78,4 @@
 6.3 Wie könnten Inhalte für eine Infografik für die Persona "Carla" aussehen?
 
 6.4 Bitte generiere dazu ein Bild. 
+
